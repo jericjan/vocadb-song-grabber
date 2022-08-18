@@ -1,3 +1,9 @@
 git.lnk
 venv.lnk
 venv/
+__pycache__/
+build/
+dist/
+nico.txt
+upx.exe
+yt.txt
